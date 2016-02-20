@@ -105,6 +105,26 @@ button {
 	
 }
 
+#DaysText {
+	font-size: 2em;
+	margin-left: 0;
+	margin-bottom: .3em;
+	display: block;
+    margin-right: auto;
+    text-align: left;
+    line-height: 1;
+    letter-spacing: -0.06em;
+    font-weight: 700;
+    margin-top: 0;
+    color: #2e2f33;
+    -webkit-margin-before: 0.67em;
+    -webkit-margin-after: 0.67em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+
+	
+}
+
 button[name=buttonPrem]{
 	color: #ffffff;
     background-color: #2ebd59;
@@ -125,7 +145,8 @@ button[name=buttonPrem]{
     line-height: 1.5;
     margin-right: auto;
     margin-bottom: 1em;
-    box-sizing: border-box;
+    margin-right: auto;
+    max-width: 305px;
     }
 
 button[name=buttonFree]{
