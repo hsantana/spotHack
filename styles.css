@@ -1,6 +1,27 @@
-body {
-
+body{
+	font-family: Helvetica,sans-serif;
 }
+
+	.nav_bar{
+		display: flex;
+		align-items: left;
+		justify-content: flex-start;
+		height: 80px;
+		width: 100%;
+		
+		background-color: #000000;
+
+
+
+	}
+		.nav_bar_img{
+			margin-top: auto;
+			margin-bottom: auto;
+			margin: auto;
+			height: 50%;
+
+		}
+
 
 header {
 
